@@ -1,0 +1,11 @@
+poe-dive.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+poe-dive
+  rotate: false
+  xy: 2, 2
+  size: 163, 204
+  orig: 175, 204
+  offset: 5, 0
+  index: 1

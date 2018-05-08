@@ -1,0 +1,12 @@
+petal-idle.png
+size: 125, 192
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+petal-idle_
+  rotate: false
+  xy: 2, 2
+  size: 121, 188
+  orig: 121, 188
+  offset: 0, 0
+  index: -1

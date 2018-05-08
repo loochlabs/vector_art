@@ -1,0 +1,12 @@
+petal-dive.png
+size: 129, 185
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+petal-dive
+  rotate: false
+  xy: 2, 2
+  size: 125, 181
+  orig: 125, 181
+  offset: 0, 0
+  index: 1

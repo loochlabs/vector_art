@@ -1,0 +1,285 @@
+petal-start.png
+size: 2012, 716
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+petal-start
+  rotate: false
+  xy: 2, 2
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 1
+petal-start
+  rotate: false
+  xy: 2, 240
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 2
+petal-start
+  rotate: false
+  xy: 2, 478
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 3
+petal-start
+  rotate: false
+  xy: 203, 2
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 4
+petal-start
+  rotate: false
+  xy: 203, 240
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 5
+petal-start
+  rotate: false
+  xy: 203, 478
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 6
+petal-start
+  rotate: false
+  xy: 404, 2
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 7
+petal-start
+  rotate: false
+  xy: 404, 240
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 8
+petal-start
+  rotate: false
+  xy: 404, 478
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 9
+petal-start
+  rotate: false
+  xy: 605, 2
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 10
+petal-start
+  rotate: false
+  xy: 605, 240
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 11
+petal-start
+  rotate: false
+  xy: 605, 478
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 12
+petal-start
+  rotate: false
+  xy: 806, 2
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 13
+petal-start
+  rotate: false
+  xy: 806, 240
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 14
+petal-start
+  rotate: false
+  xy: 806, 478
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 15
+petal-start
+  rotate: false
+  xy: 1007, 2
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 16
+petal-start
+  rotate: false
+  xy: 1007, 240
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 17
+petal-start
+  rotate: false
+  xy: 1007, 478
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 18
+petal-start
+  rotate: false
+  xy: 1208, 2
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 19
+petal-start
+  rotate: false
+  xy: 1208, 240
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 20
+petal-start
+  rotate: false
+  xy: 1208, 478
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 21
+petal-start
+  rotate: false
+  xy: 1409, 2
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 22
+petal-start
+  rotate: false
+  xy: 1610, 2
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 23
+petal-start
+  rotate: false
+  xy: 1811, 2
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 24
+petal-start
+  rotate: false
+  xy: 1409, 240
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 25
+petal-start
+  rotate: false
+  xy: 1409, 478
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 26
+petal-start
+  rotate: false
+  xy: 1610, 240
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 27
+petal-start
+  rotate: false
+  xy: 1610, 478
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 28
+petal-start
+  rotate: false
+  xy: 1811, 240
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 29
+petal-start
+  rotate: false
+  xy: 1811, 478
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 30
+petal-start
+  rotate: false
+  xy: 1811, 478
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 31
+petal-start
+  rotate: false
+  xy: 1811, 478
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 32
+petal-start
+  rotate: false
+  xy: 1811, 478
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 33
+petal-start
+  rotate: false
+  xy: 1811, 478
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 34
+petal-start
+  rotate: false
+  xy: 1811, 478
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 35
+petal-start
+  rotate: false
+  xy: 1811, 478
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 36
+petal-start
+  rotate: false
+  xy: 1811, 478
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 37
+petal-start
+  rotate: false
+  xy: 1811, 478
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 38
+petal-start
+  rotate: false
+  xy: 1811, 478
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 39
+petal-start
+  rotate: false
+  xy: 1811, 478
+  size: 199, 236
+  orig: 199, 236
+  offset: 0, 0
+  index: 40

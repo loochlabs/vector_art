@@ -1,0 +1,11 @@
+bg-piece3.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg-piece3
+  rotate: false
+  xy: 2, 2
+  size: 472, 205
+  orig: 472, 205
+  offset: 0, 0
+  index: 1

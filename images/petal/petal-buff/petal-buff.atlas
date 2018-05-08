@@ -1,0 +1,82 @@
+petal-buff.png
+size: 123, 754
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+petal-buff
+  rotate: false
+  xy: 2, 2
+  size: 119, 186
+  orig: 119, 186
+  offset: 0, 0
+  index: 1
+petal-buff
+  rotate: false
+  xy: 2, 2
+  size: 119, 186
+  orig: 119, 186
+  offset: 0, 0
+  index: 2
+petal-buff
+  rotate: false
+  xy: 2, 2
+  size: 119, 186
+  orig: 119, 186
+  offset: 0, 0
+  index: 3
+petal-buff
+  rotate: false
+  xy: 2, 2
+  size: 119, 186
+  orig: 119, 186
+  offset: 0, 0
+  index: 4
+petal-buff
+  rotate: false
+  xy: 2, 190
+  size: 119, 186
+  orig: 119, 186
+  offset: 0, 0
+  index: 5
+petal-buff
+  rotate: false
+  xy: 2, 190
+  size: 119, 186
+  orig: 119, 186
+  offset: 0, 0
+  index: 6
+petal-buff
+  rotate: false
+  xy: 2, 190
+  size: 119, 186
+  orig: 119, 186
+  offset: 0, 0
+  index: 7
+petal-buff
+  rotate: false
+  xy: 2, 378
+  size: 119, 186
+  orig: 119, 186
+  offset: 0, 0
+  index: 8
+petal-buff
+  rotate: false
+  xy: 2, 378
+  size: 119, 186
+  orig: 119, 186
+  offset: 0, 0
+  index: 9
+petal-buff
+  rotate: false
+  xy: 2, 566
+  size: 119, 186
+  orig: 119, 186
+  offset: 0, 0
+  index: 10
+petal-buff
+  rotate: false
+  xy: 2, 566
+  size: 119, 186
+  orig: 119, 186
+  offset: 0, 0
+  index: 11

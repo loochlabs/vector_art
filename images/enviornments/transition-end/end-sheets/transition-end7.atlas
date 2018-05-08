@@ -1,0 +1,25 @@
+trans-end7.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+end
+  rotate: true
+  xy: 2, 2
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: 25
+end
+  rotate: false
+  xy: 724, 2
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: 26
+end
+  rotate: false
+  xy: 724, 724
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: 27

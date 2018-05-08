@@ -1,0 +1,796 @@
+endSpectralSprite.png
+size: 1822, 372
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+endSpectralSprite
+  rotate: false
+  xy: 2, 2
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 1
+endSpectralSprite
+  rotate: false
+  xy: 2, 76
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 2
+endSpectralSprite
+  rotate: false
+  xy: 2, 150
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 3
+endSpectralSprite
+  rotate: false
+  xy: 2, 224
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 4
+endSpectralSprite
+  rotate: false
+  xy: 2, 298
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 5
+endSpectralSprite
+  rotate: false
+  xy: 132, 2
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 6
+endSpectralSprite
+  rotate: false
+  xy: 132, 76
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 7
+endSpectralSprite
+  rotate: false
+  xy: 132, 150
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 8
+endSpectralSprite
+  rotate: false
+  xy: 132, 224
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 9
+endSpectralSprite
+  rotate: false
+  xy: 132, 298
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 10
+endSpectralSprite
+  rotate: false
+  xy: 262, 2
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 11
+endSpectralSprite
+  rotate: false
+  xy: 262, 76
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 12
+endSpectralSprite
+  rotate: false
+  xy: 262, 150
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 13
+endSpectralSprite
+  rotate: false
+  xy: 262, 224
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 14
+endSpectralSprite
+  rotate: false
+  xy: 262, 298
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 15
+endSpectralSprite
+  rotate: false
+  xy: 392, 2
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 16
+endSpectralSprite
+  rotate: false
+  xy: 392, 76
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 17
+endSpectralSprite
+  rotate: false
+  xy: 392, 150
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 18
+endSpectralSprite
+  rotate: false
+  xy: 392, 224
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 19
+endSpectralSprite
+  rotate: false
+  xy: 392, 298
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 20
+endSpectralSprite
+  rotate: false
+  xy: 522, 2
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 21
+endSpectralSprite
+  rotate: false
+  xy: 522, 76
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 22
+endSpectralSprite
+  rotate: false
+  xy: 522, 150
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 23
+endSpectralSprite
+  rotate: false
+  xy: 522, 224
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 24
+endSpectralSprite
+  rotate: false
+  xy: 522, 298
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 25
+endSpectralSprite
+  rotate: false
+  xy: 652, 2
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 26
+endSpectralSprite
+  rotate: false
+  xy: 652, 76
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 27
+endSpectralSprite
+  rotate: false
+  xy: 652, 150
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 28
+endSpectralSprite
+  rotate: false
+  xy: 652, 224
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 29
+endSpectralSprite
+  rotate: false
+  xy: 652, 298
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 30
+endSpectralSprite
+  rotate: false
+  xy: 782, 2
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 31
+endSpectralSprite
+  rotate: false
+  xy: 782, 76
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 32
+endSpectralSprite
+  rotate: false
+  xy: 782, 150
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 33
+endSpectralSprite
+  rotate: false
+  xy: 782, 224
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 34
+endSpectralSprite
+  rotate: false
+  xy: 782, 298
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 35
+endSpectralSprite
+  rotate: false
+  xy: 912, 2
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 36
+endSpectralSprite
+  rotate: false
+  xy: 912, 76
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 37
+endSpectralSprite
+  rotate: false
+  xy: 912, 150
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 38
+endSpectralSprite
+  rotate: false
+  xy: 912, 224
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 39
+endSpectralSprite
+  rotate: false
+  xy: 912, 298
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 40
+endSpectralSprite
+  rotate: false
+  xy: 1042, 2
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 41
+endSpectralSprite
+  rotate: false
+  xy: 1042, 76
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 42
+endSpectralSprite
+  rotate: false
+  xy: 1042, 150
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 43
+endSpectralSprite
+  rotate: false
+  xy: 1042, 224
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 44
+endSpectralSprite
+  rotate: false
+  xy: 1042, 298
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 45
+endSpectralSprite
+  rotate: false
+  xy: 1172, 2
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 46
+endSpectralSprite
+  rotate: false
+  xy: 1172, 76
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 47
+endSpectralSprite
+  rotate: false
+  xy: 1172, 150
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 48
+endSpectralSprite
+  rotate: false
+  xy: 1172, 224
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 49
+endSpectralSprite
+  rotate: false
+  xy: 1172, 298
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 50
+endSpectralSprite
+  rotate: false
+  xy: 1302, 2
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 51
+endSpectralSprite
+  rotate: false
+  xy: 1302, 76
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 52
+endSpectralSprite
+  rotate: false
+  xy: 1302, 150
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 53
+endSpectralSprite
+  rotate: false
+  xy: 1302, 224
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 54
+endSpectralSprite
+  rotate: false
+  xy: 1302, 224
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 55
+endSpectralSprite
+  rotate: false
+  xy: 1302, 224
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 56
+endSpectralSprite
+  rotate: false
+  xy: 1302, 298
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 57
+endSpectralSprite
+  rotate: false
+  xy: 1302, 298
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 58
+endSpectralSprite
+  rotate: false
+  xy: 1302, 298
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 59
+endSpectralSprite
+  rotate: false
+  xy: 1432, 2
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 60
+endSpectralSprite
+  rotate: false
+  xy: 1432, 2
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 61
+endSpectralSprite
+  rotate: false
+  xy: 1432, 2
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 62
+endSpectralSprite
+  rotate: false
+  xy: 1562, 2
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 63
+endSpectralSprite
+  rotate: false
+  xy: 1562, 2
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 64
+endSpectralSprite
+  rotate: false
+  xy: 1562, 2
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 65
+endSpectralSprite
+  rotate: false
+  xy: 1692, 2
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 66
+endSpectralSprite
+  rotate: false
+  xy: 1692, 2
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 67
+endSpectralSprite
+  rotate: false
+  xy: 1692, 2
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 68
+endSpectralSprite
+  rotate: false
+  xy: 1432, 76
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 69
+endSpectralSprite
+  rotate: false
+  xy: 1432, 76
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 70
+endSpectralSprite
+  rotate: false
+  xy: 1432, 76
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 71
+endSpectralSprite
+  rotate: false
+  xy: 1562, 76
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 72
+endSpectralSprite
+  rotate: false
+  xy: 1562, 76
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 73
+endSpectralSprite
+  rotate: false
+  xy: 1562, 76
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 74
+endSpectralSprite
+  rotate: false
+  xy: 1692, 76
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 75
+endSpectralSprite
+  rotate: false
+  xy: 1432, 150
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 76
+endSpectralSprite
+  rotate: false
+  xy: 1432, 150
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 77
+endSpectralSprite
+  rotate: false
+  xy: 1432, 150
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 78
+endSpectralSprite
+  rotate: false
+  xy: 1432, 150
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 79
+endSpectralSprite
+  rotate: false
+  xy: 1432, 150
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 80
+endSpectralSprite
+  rotate: false
+  xy: 1432, 224
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 81
+endSpectralSprite
+  rotate: false
+  xy: 1432, 224
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 82
+endSpectralSprite
+  rotate: false
+  xy: 1432, 224
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 83
+endSpectralSprite
+  rotate: false
+  xy: 1432, 224
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 84
+endSpectralSprite
+  rotate: false
+  xy: 1432, 224
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 85
+endSpectralSprite
+  rotate: false
+  xy: 1432, 298
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 86
+endSpectralSprite
+  rotate: false
+  xy: 1432, 298
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 87
+endSpectralSprite
+  rotate: false
+  xy: 1432, 298
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 88
+endSpectralSprite
+  rotate: false
+  xy: 1432, 298
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 89
+endSpectralSprite
+  rotate: false
+  xy: 1432, 298
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 90
+endSpectralSprite
+  rotate: false
+  xy: 1432, 298
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 91
+endSpectralSprite
+  rotate: false
+  xy: 1562, 150
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 92
+endSpectralSprite
+  rotate: false
+  xy: 1562, 150
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 93
+endSpectralSprite
+  rotate: false
+  xy: 1562, 150
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 94
+endSpectralSprite
+  rotate: false
+  xy: 1562, 150
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 95
+endSpectralSprite
+  rotate: false
+  xy: 1562, 150
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 96
+endSpectralSprite
+  rotate: false
+  xy: 1562, 150
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 97
+endSpectralSprite
+  rotate: false
+  xy: 1562, 150
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 98
+endSpectralSprite
+  rotate: false
+  xy: 1692, 150
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 99
+endSpectralSprite
+  rotate: false
+  xy: 1692, 150
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 100
+endSpectralSprite
+  rotate: false
+  xy: 1692, 150
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 101
+endSpectralSprite
+  rotate: false
+  xy: 1692, 150
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 102
+endSpectralSprite
+  rotate: false
+  xy: 1692, 150
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 103
+endSpectralSprite
+  rotate: false
+  xy: 1692, 150
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 104
+endSpectralSprite
+  rotate: false
+  xy: 1692, 150
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 105
+endSpectralSprite
+  rotate: false
+  xy: 1562, 224
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 106
+endSpectralSprite
+  rotate: false
+  xy: 1562, 224
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 107
+endSpectralSprite
+  rotate: false
+  xy: 1562, 224
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 108
+endSpectralSprite
+  rotate: false
+  xy: 1562, 224
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 109
+endSpectralSprite
+  rotate: false
+  xy: 1562, 224
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 110
+endSpectralSprite
+  rotate: false
+  xy: 1562, 224
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 111
+endSpectralSprite
+  rotate: false
+  xy: 1562, 224
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 112
+endSpectralSprite
+  rotate: false
+  xy: 1692, 224
+  size: 128, 72
+  orig: 128, 72
+  offset: 0, 0
+  index: 113

@@ -1,0 +1,11 @@
+poe-front-anim.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+poe-front
+  rotate: false
+  xy: 2, 2
+  size: 148, 204
+  orig: 148, 204
+  offset: 0, 0
+  index: -1

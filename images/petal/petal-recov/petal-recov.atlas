@@ -1,0 +1,12 @@
+petal-recov.png
+size: 125, 169
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+petal-recov_
+  rotate: false
+  xy: 2, 2
+  size: 121, 165
+  orig: 121, 165
+  offset: 0, 0
+  index: -1

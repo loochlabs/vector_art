@@ -1,0 +1,61 @@
+petal-warp.png
+size: 104, 1498
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+petal-warp
+  rotate: false
+  xy: 2, 2
+  size: 100, 185
+  orig: 100, 185
+  offset: 0, 0
+  index: 1
+petal-warp
+  rotate: false
+  xy: 2, 189
+  size: 100, 185
+  orig: 100, 185
+  offset: 0, 0
+  index: 2
+petal-warp
+  rotate: false
+  xy: 2, 376
+  size: 100, 185
+  orig: 100, 185
+  offset: 0, 0
+  index: 3
+petal-warp
+  rotate: false
+  xy: 2, 563
+  size: 100, 185
+  orig: 100, 185
+  offset: 0, 0
+  index: 4
+petal-warp
+  rotate: false
+  xy: 2, 750
+  size: 100, 185
+  orig: 100, 185
+  offset: 0, 0
+  index: 5
+petal-warp
+  rotate: false
+  xy: 2, 937
+  size: 100, 185
+  orig: 100, 185
+  offset: 0, 0
+  index: 6
+petal-warp
+  rotate: false
+  xy: 2, 1124
+  size: 100, 185
+  orig: 100, 185
+  offset: 0, 0
+  index: 7
+petal-warp
+  rotate: false
+  xy: 2, 1311
+  size: 100, 185
+  orig: 100, 185
+  offset: 0, 0
+  index: 8

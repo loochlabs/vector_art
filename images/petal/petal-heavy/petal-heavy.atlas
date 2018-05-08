@@ -1,0 +1,68 @@
+petal-heavy.png
+size: 530, 202
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+petal-heavy
+  rotate: false
+  xy: 2, 2
+  size: 130, 198
+  orig: 130, 198
+  offset: 0, 0
+  index: 1
+petal-heavy
+  rotate: false
+  xy: 2, 2
+  size: 130, 198
+  orig: 130, 198
+  offset: 0, 0
+  index: 2
+petal-heavy
+  rotate: false
+  xy: 2, 2
+  size: 130, 198
+  orig: 130, 198
+  offset: 0, 0
+  index: 3
+petal-heavy
+  rotate: false
+  xy: 134, 2
+  size: 130, 198
+  orig: 130, 198
+  offset: 0, 0
+  index: 4
+petal-heavy
+  rotate: false
+  xy: 134, 2
+  size: 130, 198
+  orig: 130, 198
+  offset: 0, 0
+  index: 5
+petal-heavy
+  rotate: false
+  xy: 134, 2
+  size: 130, 198
+  orig: 130, 198
+  offset: 0, 0
+  index: 6
+petal-heavy
+  rotate: false
+  xy: 266, 2
+  size: 130, 198
+  orig: 130, 198
+  offset: 0, 0
+  index: 7
+petal-heavy
+  rotate: false
+  xy: 266, 2
+  size: 130, 198
+  orig: 130, 198
+  offset: 0, 0
+  index: 8
+petal-heavy
+  rotate: false
+  xy: 398, 2
+  size: 130, 198
+  orig: 130, 198
+  offset: 0, 0
+  index: 9

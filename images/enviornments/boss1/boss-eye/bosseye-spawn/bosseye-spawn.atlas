@@ -1,0 +1,117 @@
+bosseye-spawn.png
+size: 3480, 294
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bosseye-spawn
+  rotate: false
+  xy: 1, 1
+  size: 288, 292
+  orig: 288, 292
+  offset: 0, 0
+  index: 1
+bosseye-spawn
+  rotate: false
+  xy: 291, 1
+  size: 288, 292
+  orig: 288, 292
+  offset: 0, 0
+  index: 2
+bosseye-spawn
+  rotate: false
+  xy: 581, 1
+  size: 288, 292
+  orig: 288, 292
+  offset: 0, 0
+  index: 3
+bosseye-spawn
+  rotate: false
+  xy: 581, 1
+  size: 288, 292
+  orig: 288, 292
+  offset: 0, 0
+  index: 4
+bosseye-spawn
+  rotate: false
+  xy: 871, 1
+  size: 288, 292
+  orig: 288, 292
+  offset: 0, 0
+  index: 5
+bosseye-spawn
+  rotate: false
+  xy: 1161, 1
+  size: 288, 292
+  orig: 288, 292
+  offset: 0, 0
+  index: 6
+bosseye-spawn
+  rotate: false
+  xy: 1161, 1
+  size: 288, 292
+  orig: 288, 292
+  offset: 0, 0
+  index: 7
+bosseye-spawn
+  rotate: false
+  xy: 1451, 1
+  size: 288, 292
+  orig: 288, 292
+  offset: 0, 0
+  index: 8
+bosseye-spawn
+  rotate: false
+  xy: 1741, 1
+  size: 288, 292
+  orig: 288, 292
+  offset: 0, 0
+  index: 9
+bosseye-spawn
+  rotate: false
+  xy: 1741, 1
+  size: 288, 292
+  orig: 288, 292
+  offset: 0, 0
+  index: 10
+bosseye-spawn
+  rotate: false
+  xy: 2031, 1
+  size: 288, 292
+  orig: 288, 292
+  offset: 0, 0
+  index: 11
+bosseye-spawn
+  rotate: false
+  xy: 2321, 1
+  size: 288, 292
+  orig: 288, 292
+  offset: 0, 0
+  index: 12
+bosseye-spawn
+  rotate: false
+  xy: 2611, 1
+  size: 288, 292
+  orig: 288, 292
+  offset: 0, 0
+  index: 13
+bosseye-spawn
+  rotate: false
+  xy: 2901, 1
+  size: 288, 292
+  orig: 288, 292
+  offset: 0, 0
+  index: 14
+bosseye-spawn
+  rotate: false
+  xy: 2901, 1
+  size: 288, 292
+  orig: 288, 292
+  offset: 0, 0
+  index: 15
+bosseye-spawn
+  rotate: false
+  xy: 3191, 1
+  size: 288, 292
+  orig: 288, 292
+  offset: 0, 0
+  index: 16

@@ -1,0 +1,68 @@
+petal-light.png
+size: 634, 238
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+petal-light
+  rotate: false
+  xy: 2, 2
+  size: 156, 234
+  orig: 156, 234
+  offset: 0, 0
+  index: 1
+petal-light
+  rotate: false
+  xy: 2, 2
+  size: 156, 234
+  orig: 156, 234
+  offset: 0, 0
+  index: 2
+petal-light
+  rotate: false
+  xy: 2, 2
+  size: 156, 234
+  orig: 156, 234
+  offset: 0, 0
+  index: 3
+petal-light
+  rotate: false
+  xy: 160, 2
+  size: 156, 234
+  orig: 156, 234
+  offset: 0, 0
+  index: 4
+petal-light
+  rotate: false
+  xy: 160, 2
+  size: 156, 234
+  orig: 156, 234
+  offset: 0, 0
+  index: 5
+petal-light
+  rotate: false
+  xy: 160, 2
+  size: 156, 234
+  orig: 156, 234
+  offset: 0, 0
+  index: 6
+petal-light
+  rotate: false
+  xy: 318, 2
+  size: 156, 234
+  orig: 156, 234
+  offset: 0, 0
+  index: 7
+petal-light
+  rotate: false
+  xy: 318, 2
+  size: 156, 234
+  orig: 156, 234
+  offset: 0, 0
+  index: 8
+petal-light
+  rotate: false
+  xy: 476, 2
+  size: 156, 234
+  orig: 156, 234
+  offset: 0, 0
+  index: 9

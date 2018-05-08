@@ -1,0 +1,2007 @@
+boss-spawn.png
+size: 6594, 1380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 1
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 2
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 3
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 4
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 5
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 6
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 7
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 8
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 9
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 10
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 11
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 12
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 13
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 14
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 15
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 16
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 17
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 18
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 19
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 20
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 21
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 22
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 23
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 24
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 25
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 26
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 27
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 28
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 29
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 30
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 31
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 32
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 33
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 34
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 35
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 36
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 37
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 38
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 39
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 40
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 41
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 42
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 43
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 44
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 45
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 46
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 47
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 48
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 49
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 50
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 51
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 52
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 53
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 54
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 55
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 56
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 57
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 58
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 59
+boss-spawn
+  rotate: false
+  xy: 1, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 60
+boss-spawn
+  rotate: false
+  xy: 1, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 61
+boss-spawn
+  rotate: false
+  xy: 1, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 62
+boss-spawn
+  rotate: false
+  xy: 1, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 63
+boss-spawn
+  rotate: false
+  xy: 1, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 64
+boss-spawn
+  rotate: false
+  xy: 1, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 65
+boss-spawn
+  rotate: false
+  xy: 1, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 66
+boss-spawn
+  rotate: false
+  xy: 1, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 67
+boss-spawn
+  rotate: false
+  xy: 1, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 68
+boss-spawn
+  rotate: false
+  xy: 1, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 69
+boss-spawn
+  rotate: false
+  xy: 1, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 70
+boss-spawn
+  rotate: false
+  xy: 1, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 71
+boss-spawn
+  rotate: false
+  xy: 1, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 72
+boss-spawn
+  rotate: false
+  xy: 1, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 73
+boss-spawn
+  rotate: false
+  xy: 1, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 74
+boss-spawn
+  rotate: false
+  xy: 1, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 75
+boss-spawn
+  rotate: false
+  xy: 472, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 76
+boss-spawn
+  rotate: false
+  xy: 472, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 77
+boss-spawn
+  rotate: false
+  xy: 472, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 78
+boss-spawn
+  rotate: false
+  xy: 472, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 79
+boss-spawn
+  rotate: false
+  xy: 472, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 80
+boss-spawn
+  rotate: false
+  xy: 472, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 81
+boss-spawn
+  rotate: false
+  xy: 472, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 82
+boss-spawn
+  rotate: false
+  xy: 472, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 83
+boss-spawn
+  rotate: false
+  xy: 472, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 84
+boss-spawn
+  rotate: false
+  xy: 472, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 85
+boss-spawn
+  rotate: false
+  xy: 472, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 86
+boss-spawn
+  rotate: false
+  xy: 472, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 87
+boss-spawn
+  rotate: false
+  xy: 472, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 88
+boss-spawn
+  rotate: false
+  xy: 472, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 89
+boss-spawn
+  rotate: false
+  xy: 472, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 90
+boss-spawn
+  rotate: false
+  xy: 472, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 91
+boss-spawn
+  rotate: false
+  xy: 472, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 92
+boss-spawn
+  rotate: false
+  xy: 472, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 93
+boss-spawn
+  rotate: false
+  xy: 472, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 94
+boss-spawn
+  rotate: false
+  xy: 472, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 95
+boss-spawn
+  rotate: false
+  xy: 943, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 96
+boss-spawn
+  rotate: false
+  xy: 943, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 97
+boss-spawn
+  rotate: false
+  xy: 943, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 98
+boss-spawn
+  rotate: false
+  xy: 943, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 99
+boss-spawn
+  rotate: false
+  xy: 943, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 100
+boss-spawn
+  rotate: false
+  xy: 943, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 101
+boss-spawn
+  rotate: false
+  xy: 943, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 102
+boss-spawn
+  rotate: false
+  xy: 943, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 103
+boss-spawn
+  rotate: false
+  xy: 943, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 104
+boss-spawn
+  rotate: false
+  xy: 943, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 105
+boss-spawn
+  rotate: false
+  xy: 943, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 106
+boss-spawn
+  rotate: false
+  xy: 943, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 107
+boss-spawn
+  rotate: false
+  xy: 943, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 108
+boss-spawn
+  rotate: false
+  xy: 943, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 109
+boss-spawn
+  rotate: false
+  xy: 943, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 110
+boss-spawn
+  rotate: false
+  xy: 943, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 111
+boss-spawn
+  rotate: false
+  xy: 943, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 112
+boss-spawn
+  rotate: false
+  xy: 943, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 113
+boss-spawn
+  rotate: false
+  xy: 943, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 114
+boss-spawn
+  rotate: false
+  xy: 943, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 115
+boss-spawn
+  rotate: false
+  xy: 943, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 116
+boss-spawn
+  rotate: false
+  xy: 943, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 117
+boss-spawn
+  rotate: false
+  xy: 943, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 118
+boss-spawn
+  rotate: false
+  xy: 943, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 119
+boss-spawn
+  rotate: false
+  xy: 1414, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 120
+boss-spawn
+  rotate: false
+  xy: 1414, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 121
+boss-spawn
+  rotate: false
+  xy: 1414, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 122
+boss-spawn
+  rotate: false
+  xy: 1414, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 123
+boss-spawn
+  rotate: false
+  xy: 1414, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 124
+boss-spawn
+  rotate: false
+  xy: 1414, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 125
+boss-spawn
+  rotate: false
+  xy: 1414, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 126
+boss-spawn
+  rotate: false
+  xy: 1414, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 127
+boss-spawn
+  rotate: false
+  xy: 1414, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 128
+boss-spawn
+  rotate: false
+  xy: 1414, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 129
+boss-spawn
+  rotate: false
+  xy: 1414, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 130
+boss-spawn
+  rotate: false
+  xy: 1414, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 131
+boss-spawn
+  rotate: false
+  xy: 1885, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 132
+boss-spawn
+  rotate: false
+  xy: 1885, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 133
+boss-spawn
+  rotate: false
+  xy: 1885, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 134
+boss-spawn
+  rotate: false
+  xy: 1885, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 135
+boss-spawn
+  rotate: false
+  xy: 1885, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 136
+boss-spawn
+  rotate: false
+  xy: 1885, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 137
+boss-spawn
+  rotate: false
+  xy: 1885, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 138
+boss-spawn
+  rotate: false
+  xy: 1885, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 139
+boss-spawn
+  rotate: false
+  xy: 1885, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 140
+boss-spawn
+  rotate: false
+  xy: 1885, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 141
+boss-spawn
+  rotate: false
+  xy: 1885, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 142
+boss-spawn
+  rotate: false
+  xy: 1885, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 143
+boss-spawn
+  rotate: false
+  xy: 1885, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 144
+boss-spawn
+  rotate: false
+  xy: 1885, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 145
+boss-spawn
+  rotate: false
+  xy: 1885, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 146
+boss-spawn
+  rotate: false
+  xy: 1885, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 147
+boss-spawn
+  rotate: false
+  xy: 1885, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 148
+boss-spawn
+  rotate: false
+  xy: 1885, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 149
+boss-spawn
+  rotate: false
+  xy: 1885, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 150
+boss-spawn
+  rotate: false
+  xy: 1885, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 151
+boss-spawn
+  rotate: false
+  xy: 1885, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 152
+boss-spawn
+  rotate: false
+  xy: 1885, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 153
+boss-spawn
+  rotate: false
+  xy: 1885, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 154
+boss-spawn
+  rotate: false
+  xy: 1885, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 155
+boss-spawn
+  rotate: false
+  xy: 1885, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 156
+boss-spawn
+  rotate: false
+  xy: 1885, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 157
+boss-spawn
+  rotate: false
+  xy: 1885, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 158
+boss-spawn
+  rotate: false
+  xy: 2356, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 159
+boss-spawn
+  rotate: false
+  xy: 2356, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 160
+boss-spawn
+  rotate: false
+  xy: 2356, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 161
+boss-spawn
+  rotate: false
+  xy: 2356, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 162
+boss-spawn
+  rotate: false
+  xy: 2356, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 163
+boss-spawn
+  rotate: false
+  xy: 2356, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 164
+boss-spawn
+  rotate: false
+  xy: 2356, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 165
+boss-spawn
+  rotate: false
+  xy: 2356, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 166
+boss-spawn
+  rotate: false
+  xy: 2356, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 167
+boss-spawn
+  rotate: false
+  xy: 2356, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 168
+boss-spawn
+  rotate: false
+  xy: 2356, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 169
+boss-spawn
+  rotate: false
+  xy: 2356, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 170
+boss-spawn
+  rotate: false
+  xy: 2827, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 171
+boss-spawn
+  rotate: false
+  xy: 2827, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 172
+boss-spawn
+  rotate: false
+  xy: 2827, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 173
+boss-spawn
+  rotate: false
+  xy: 2827, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 174
+boss-spawn
+  rotate: false
+  xy: 2827, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 175
+boss-spawn
+  rotate: false
+  xy: 2827, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 176
+boss-spawn
+  rotate: false
+  xy: 2827, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 177
+boss-spawn
+  rotate: false
+  xy: 2827, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 178
+boss-spawn
+  rotate: false
+  xy: 2827, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 179
+boss-spawn
+  rotate: false
+  xy: 2827, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 180
+boss-spawn
+  rotate: false
+  xy: 2827, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 181
+boss-spawn
+  rotate: false
+  xy: 2827, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 182
+boss-spawn
+  rotate: false
+  xy: 3298, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 183
+boss-spawn
+  rotate: false
+  xy: 3298, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 184
+boss-spawn
+  rotate: false
+  xy: 3298, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 185
+boss-spawn
+  rotate: false
+  xy: 3298, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 186
+boss-spawn
+  rotate: false
+  xy: 3298, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 187
+boss-spawn
+  rotate: false
+  xy: 3298, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 188
+boss-spawn
+  rotate: false
+  xy: 3298, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 189
+boss-spawn
+  rotate: false
+  xy: 3298, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 190
+boss-spawn
+  rotate: false
+  xy: 3298, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 191
+boss-spawn
+  rotate: false
+  xy: 3298, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 192
+boss-spawn
+  rotate: false
+  xy: 3298, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 193
+boss-spawn
+  rotate: false
+  xy: 3298, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 194
+boss-spawn
+  rotate: false
+  xy: 3298, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 195
+boss-spawn
+  rotate: false
+  xy: 3298, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 196
+boss-spawn
+  rotate: false
+  xy: 3298, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 197
+boss-spawn
+  rotate: false
+  xy: 3298, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 198
+boss-spawn
+  rotate: false
+  xy: 3769, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 199
+boss-spawn
+  rotate: false
+  xy: 3769, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 200
+boss-spawn
+  rotate: false
+  xy: 3769, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 201
+boss-spawn
+  rotate: false
+  xy: 3769, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 202
+boss-spawn
+  rotate: false
+  xy: 3769, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 203
+boss-spawn
+  rotate: false
+  xy: 3769, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 204
+boss-spawn
+  rotate: false
+  xy: 3769, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 205
+boss-spawn
+  rotate: false
+  xy: 3769, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 206
+boss-spawn
+  rotate: false
+  xy: 3769, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 207
+boss-spawn
+  rotate: false
+  xy: 3769, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 208
+boss-spawn
+  rotate: false
+  xy: 3769, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 209
+boss-spawn
+  rotate: false
+  xy: 3769, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 210
+boss-spawn
+  rotate: false
+  xy: 4240, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 211
+boss-spawn
+  rotate: false
+  xy: 4240, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 212
+boss-spawn
+  rotate: false
+  xy: 4240, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 213
+boss-spawn
+  rotate: false
+  xy: 4240, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 214
+boss-spawn
+  rotate: false
+  xy: 4240, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 215
+boss-spawn
+  rotate: false
+  xy: 4240, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 216
+boss-spawn
+  rotate: false
+  xy: 4240, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 217
+boss-spawn
+  rotate: false
+  xy: 4240, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 218
+boss-spawn
+  rotate: false
+  xy: 4240, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 219
+boss-spawn
+  rotate: false
+  xy: 4240, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 220
+boss-spawn
+  rotate: false
+  xy: 4240, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 221
+boss-spawn
+  rotate: false
+  xy: 4240, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 222
+boss-spawn
+  rotate: false
+  xy: 4240, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 223
+boss-spawn
+  rotate: false
+  xy: 4711, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 224
+boss-spawn
+  rotate: false
+  xy: 4711, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 225
+boss-spawn
+  rotate: false
+  xy: 4711, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 226
+boss-spawn
+  rotate: false
+  xy: 4711, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 227
+boss-spawn
+  rotate: false
+  xy: 4711, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 228
+boss-spawn
+  rotate: false
+  xy: 4711, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 229
+boss-spawn
+  rotate: false
+  xy: 4711, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 230
+boss-spawn
+  rotate: false
+  xy: 5182, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 231
+boss-spawn
+  rotate: false
+  xy: 5182, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 232
+boss-spawn
+  rotate: false
+  xy: 5182, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 233
+boss-spawn
+  rotate: false
+  xy: 5182, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 234
+boss-spawn
+  rotate: false
+  xy: 5182, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 235
+boss-spawn
+  rotate: false
+  xy: 5182, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 236
+boss-spawn
+  rotate: false
+  xy: 5653, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 237
+boss-spawn
+  rotate: false
+  xy: 5653, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 238
+boss-spawn
+  rotate: false
+  xy: 6124, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 239
+boss-spawn
+  rotate: false
+  xy: 6124, 1
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 240
+boss-spawn
+  rotate: false
+  xy: 5182, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 241
+boss-spawn
+  rotate: false
+  xy: 5182, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 242
+boss-spawn
+  rotate: false
+  xy: 5182, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 243
+boss-spawn
+  rotate: false
+  xy: 5182, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 244
+boss-spawn
+  rotate: false
+  xy: 5182, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 245
+boss-spawn
+  rotate: false
+  xy: 5182, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 246
+boss-spawn
+  rotate: false
+  xy: 5182, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 247
+boss-spawn
+  rotate: false
+  xy: 5182, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 248
+boss-spawn
+  rotate: false
+  xy: 5182, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 249
+boss-spawn
+  rotate: false
+  xy: 5182, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 250
+boss-spawn
+  rotate: false
+  xy: 5653, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 251
+boss-spawn
+  rotate: false
+  xy: 6124, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 252
+boss-spawn
+  rotate: false
+  xy: 6124, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 253
+boss-spawn
+  rotate: false
+  xy: 6124, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 254
+boss-spawn
+  rotate: false
+  xy: 6124, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 255
+boss-spawn
+  rotate: false
+  xy: 6124, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 256
+boss-spawn
+  rotate: false
+  xy: 6124, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 257
+boss-spawn
+  rotate: false
+  xy: 6124, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 258
+boss-spawn
+  rotate: false
+  xy: 6124, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 259
+boss-spawn
+  rotate: false
+  xy: 6124, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 260
+boss-spawn
+  rotate: false
+  xy: 6124, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 261
+boss-spawn
+  rotate: false
+  xy: 6124, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 262
+boss-spawn
+  rotate: false
+  xy: 6124, 346
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 263
+boss-spawn
+  rotate: false
+  xy: 5653, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 264
+boss-spawn
+  rotate: false
+  xy: 5653, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 265
+boss-spawn
+  rotate: false
+  xy: 5653, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 266
+boss-spawn
+  rotate: false
+  xy: 5653, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 267
+boss-spawn
+  rotate: false
+  xy: 6124, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 268
+boss-spawn
+  rotate: false
+  xy: 6124, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 269
+boss-spawn
+  rotate: false
+  xy: 6124, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 270
+boss-spawn
+  rotate: false
+  xy: 6124, 691
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 271
+boss-spawn
+  rotate: false
+  xy: 5653, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 272
+boss-spawn
+  rotate: false
+  xy: 5653, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 273
+boss-spawn
+  rotate: false
+  xy: 5653, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 274
+boss-spawn
+  rotate: false
+  xy: 5653, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 275
+boss-spawn
+  rotate: false
+  xy: 6124, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 276
+boss-spawn
+  rotate: false
+  xy: 6124, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 277
+boss-spawn
+  rotate: false
+  xy: 6124, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 278
+boss-spawn
+  rotate: false
+  xy: 6124, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 279
+boss-spawn
+  rotate: false
+  xy: 6124, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 280
+boss-spawn
+  rotate: false
+  xy: 6124, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 281
+boss-spawn
+  rotate: false
+  xy: 6124, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 282
+boss-spawn
+  rotate: false
+  xy: 6124, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 283
+boss-spawn
+  rotate: false
+  xy: 6124, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 284
+boss-spawn
+  rotate: false
+  xy: 6124, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 285
+boss-spawn
+  rotate: false
+  xy: 6124, 1036
+  size: 469, 343
+  orig: 469, 343
+  offset: 0, 0
+  index: 286

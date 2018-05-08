@@ -1,0 +1,12 @@
+worm-att.png
+size: 37, 71
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+worm-att
+  rotate: false
+  xy: 2, 2
+  size: 33, 67
+  orig: 33, 67
+  offset: 0, 0
+  index: 1

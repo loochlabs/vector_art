@@ -1,0 +1,145 @@
+bosseye-trail.png
+size: 435, 94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bosseye-trail
+  rotate: false
+  xy: 1, 1
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: 1
+bosseye-trail
+  rotate: false
+  xy: 1, 1
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: 2
+bosseye-trail
+  rotate: false
+  xy: 1, 1
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: 3
+bosseye-trail
+  rotate: false
+  xy: 1, 1
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: 4
+bosseye-trail
+  rotate: false
+  xy: 88, 1
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: 5
+bosseye-trail
+  rotate: false
+  xy: 88, 1
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: 6
+bosseye-trail
+  rotate: false
+  xy: 88, 1
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: 7
+bosseye-trail
+  rotate: false
+  xy: 88, 1
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: 8
+bosseye-trail
+  rotate: false
+  xy: 175, 1
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: 9
+bosseye-trail
+  rotate: false
+  xy: 175, 1
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: 10
+bosseye-trail
+  rotate: false
+  xy: 175, 1
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: 11
+bosseye-trail
+  rotate: false
+  xy: 175, 1
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: 12
+bosseye-trail
+  rotate: false
+  xy: 262, 1
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: 13
+bosseye-trail
+  rotate: false
+  xy: 262, 1
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: 14
+bosseye-trail
+  rotate: false
+  xy: 262, 1
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: 15
+bosseye-trail
+  rotate: false
+  xy: 262, 1
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: 16
+bosseye-trail
+  rotate: false
+  xy: 349, 1
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: 17
+bosseye-trail
+  rotate: false
+  xy: 349, 1
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: 18
+bosseye-trail
+  rotate: false
+  xy: 349, 1
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: 19
+bosseye-trail
+  rotate: false
+  xy: 349, 1
+  size: 85, 92
+  orig: 85, 92
+  offset: 0, 0
+  index: 20

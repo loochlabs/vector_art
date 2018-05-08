@@ -1,0 +1,32 @@
+trans-end2.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+end
+  rotate: false
+  xy: 2, 2
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: 5
+end
+  rotate: true
+  xy: 2, 724
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: 6
+end
+  rotate: true
+  xy: 1284, 2
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: 7
+end
+  rotate: false
+  xy: 724, 1284
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: 8

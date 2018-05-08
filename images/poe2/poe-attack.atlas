@@ -1,0 +1,116 @@
+poe-attack.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+poe-attack
+  rotate: false
+  xy: 2, 2
+  size: 277, 320
+  orig: 277, 320
+  offset: 0, 0
+  index: 1
+poe-attack
+  rotate: false
+  xy: 281, 2
+  size: 277, 320
+  orig: 277, 320
+  offset: 0, 0
+  index: 10
+poe-attack
+  rotate: false
+  xy: 281, 2
+  size: 277, 320
+  orig: 277, 320
+  offset: 0, 0
+  index: 11
+poe-attack
+  rotate: false
+  xy: 281, 2
+  size: 277, 320
+  orig: 277, 320
+  offset: 0, 0
+  index: 12
+poe-attack
+  rotate: false
+  xy: 560, 2
+  size: 277, 320
+  orig: 277, 320
+  offset: 0, 0
+  index: 13
+poe-attack
+  rotate: false
+  xy: 560, 2
+  size: 277, 320
+  orig: 277, 320
+  offset: 0, 0
+  index: 14
+poe-attack
+  rotate: false
+  xy: 560, 2
+  size: 277, 320
+  orig: 277, 320
+  offset: 0, 0
+  index: 15
+poe-attack
+  rotate: false
+  xy: 560, 2
+  size: 277, 320
+  orig: 277, 320
+  offset: 0, 0
+  index: 16
+poe-attack
+  rotate: false
+  xy: 2, 2
+  size: 277, 320
+  orig: 277, 320
+  offset: 0, 0
+  index: 2
+poe-attack
+  rotate: false
+  xy: 2, 2
+  size: 277, 320
+  orig: 277, 320
+  offset: 0, 0
+  index: 3
+poe-attack
+  rotate: false
+  xy: 2, 2
+  size: 277, 320
+  orig: 277, 320
+  offset: 0, 0
+  index: 4
+poe-attack
+  rotate: false
+  xy: 839, 2
+  size: 277, 320
+  orig: 277, 320
+  offset: 0, 0
+  index: 5
+poe-attack
+  rotate: false
+  xy: 839, 2
+  size: 277, 320
+  orig: 277, 320
+  offset: 0, 0
+  index: 6
+poe-attack
+  rotate: false
+  xy: 839, 2
+  size: 277, 320
+  orig: 277, 320
+  offset: 0, 0
+  index: 7
+poe-attack
+  rotate: false
+  xy: 839, 2
+  size: 277, 320
+  orig: 277, 320
+  offset: 0, 0
+  index: 8
+poe-attack
+  rotate: false
+  xy: 281, 2
+  size: 277, 320
+  orig: 277, 320
+  offset: 0, 0
+  index: 9

@@ -1,0 +1,32 @@
+trans-end4.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+end
+  rotate: false
+  xy: 2, 2
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: 13
+end
+  rotate: true
+  xy: 2, 724
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: 14
+end
+  rotate: true
+  xy: 1284, 2
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: 15
+end
+  rotate: false
+  xy: 724, 1284
+  size: 1280, 720
+  orig: 1280, 720
+  offset: 0, 0
+  index: 16

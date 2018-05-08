@@ -1,0 +1,278 @@
+petal-side.png
+size: 128, 1209
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+petal-side
+  rotate: false
+  xy: 2, 2
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 1
+petal-side
+  rotate: false
+  xy: 2, 2
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 2
+petal-side
+  rotate: false
+  xy: 2, 2
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 3
+petal-side
+  rotate: false
+  xy: 2, 2
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 4
+petal-side
+  rotate: false
+  xy: 2, 2
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 5
+petal-side
+  rotate: false
+  xy: 2, 201
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 6
+petal-side
+  rotate: false
+  xy: 2, 201
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 7
+petal-side
+  rotate: false
+  xy: 2, 201
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 8
+petal-side
+  rotate: false
+  xy: 2, 201
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 9
+petal-side
+  rotate: false
+  xy: 2, 2
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 10
+petal-side
+  rotate: false
+  xy: 2, 2
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 11
+petal-side
+  rotate: false
+  xy: 2, 2
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 12
+petal-side
+  rotate: false
+  xy: 2, 2
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 13
+petal-side
+  rotate: false
+  xy: 2, 2
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 14
+petal-side
+  rotate: false
+  xy: 2, 400
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 15
+petal-side
+  rotate: false
+  xy: 2, 400
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 16
+petal-side
+  rotate: false
+  xy: 2, 400
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 17
+petal-side
+  rotate: false
+  xy: 2, 400
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 18
+petal-side
+  rotate: false
+  xy: 2, 400
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 19
+petal-side
+  rotate: false
+  xy: 2, 599
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 20
+petal-side
+  rotate: false
+  xy: 2, 599
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 21
+petal-side
+  rotate: false
+  xy: 2, 599
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 22
+petal-side
+  rotate: false
+  xy: 2, 599
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 23
+petal-side
+  rotate: false
+  xy: 2, 599
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 24
+petal-side
+  rotate: false
+  xy: 2, 798
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 25
+petal-side
+  rotate: false
+  xy: 2, 798
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 26
+petal-side
+  rotate: false
+  xy: 2, 798
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 27
+petal-side
+  rotate: false
+  xy: 2, 798
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 28
+petal-side
+  rotate: false
+  xy: 2, 798
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 29
+petal-side
+  rotate: false
+  xy: 2, 599
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 30
+petal-side
+  rotate: false
+  xy: 2, 599
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 31
+petal-side
+  rotate: false
+  xy: 2, 599
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 32
+petal-side
+  rotate: false
+  xy: 2, 599
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 33
+petal-side
+  rotate: false
+  xy: 2, 599
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 34
+petal-side
+  rotate: false
+  xy: 2, 997
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 35
+petal-side
+  rotate: false
+  xy: 2, 997
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 36
+petal-side
+  rotate: false
+  xy: 2, 997
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 37
+petal-side
+  rotate: false
+  xy: 2, 997
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 38
+petal-side
+  rotate: false
+  xy: 2, 997
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: 39
